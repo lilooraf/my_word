@@ -1,0 +1,19 @@
+USAGE :
+        ./my_world Width Length
+    or
+        ./my_world Size
+    or
+        ./my_world
+
+DESCRIPTION :
+
+    No arguments = Basic map 10 x 10. 
+    Width        = Number of columns < 250.
+    Length       = Number of lines < 250.
+    Size         = Width & Length < 250.
+
+MORE :
+
+The mouse cursor can be used to modify the map, for example the height of a point or for movements (click and drag).
+The zoom can be controlled by the mouse wheel.
+The 'R' key is a shortcut for the map's reinitialisation.
